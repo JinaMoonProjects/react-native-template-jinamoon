@@ -89,7 +89,7 @@
 ```
 ### Demo `redux` branche
 
-https://user-images.githubusercontent.com/72823374/152787595-aa2afbd9-3a33-4611-b9e2-2a055e0a8a56.mp4
+https://user-images.githubusercontent.com/72823374/153243206-314bb884-f103-4020-951c-61737d75064a.mp4
 
 
 
